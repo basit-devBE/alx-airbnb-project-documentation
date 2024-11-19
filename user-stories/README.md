@@ -1,0 +1,1 @@
+For User Stories README content, we will follow a similar structure to the Airbnb Clone project README. We will provide an overview of the project, list the actors involved, describe the scenarios, and conclude with the benefits of using user stories in software development.
